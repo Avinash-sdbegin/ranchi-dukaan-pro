@@ -1,0 +1,5 @@
+Product,Test Days,Actual Units,TabPFN MAE,Baseline MAE,TabPFN WAPE (%),Baseline WAPE (%)
+ALL PRODUCTS,7,294,1.29,1.62,9.18,11.56
+Bread,7,100,1.43,1.29,10.0,9.0
+Milk 500 ml,7,140,1.14,2.14,5.71,10.71
+Rice 1 kg,7,54,1.29,1.43,16.67,18.52
