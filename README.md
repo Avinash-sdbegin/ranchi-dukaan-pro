@@ -35,13 +35,13 @@ A suggested order is not a purchase instruction.
 ## 📸 Screenshots
 
 ### Dashboard
-![Ranchi Dukaan Pro Dashboard](screenshots/dashboard.png)
+![Ranchi Dukaan Pro Dashboard](screenshots/dashboard.png.png)
 
 ### Inventory Test
-![Inventory Test](screenshots/inventory-test.png)
+![Inventory Test](screenshots/inventory-test.png.png)
 
 ### Forecast Results
-![Seven-Day Forecast Results](screenshots/forecast-results.png)
+![Seven-Day Forecast Results](screenshots/forecast-results.png.png)
 
 
 ## Run locally
