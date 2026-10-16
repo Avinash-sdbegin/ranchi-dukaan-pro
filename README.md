@@ -31,6 +31,19 @@ inventory rules to suggest possible reorder quantities.
 The forecasting model and the stock-reorder rules are separate components.
 A suggested order is not a purchase instruction.
 
+
+## 📸 Screenshots
+
+### Dashboard
+![Ranchi Dukaan Pro Dashboard](screenshots/dashboard.png)
+
+### Inventory Test
+![Inventory Test](screenshots/inventory-test.png)
+
+### Forecast Results
+![Seven-Day Forecast Results](screenshots/forecast-results.png)
+
+
 ## Run locally
 
 Python 3.10+ is recommended.
